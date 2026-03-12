@@ -11,7 +11,7 @@ from pedidos import excluir_pedido
 # Inicializa a base caso ainda não exista.
 criar_tabela()
 
-st.title("ðŸ“¦ Sistemas de Encomendas")
+st.title("📦 Sistemas de Encomendas")
 
 # Menu principal lateral.
 menu = st.sidebar.selectbox(
